@@ -68,6 +68,12 @@ LaLiga Smartbank 6
 0c847d3acd9c4a31a815330ad7f546c30851aa88
 LaLiga Smartbank 7
 a4ea8b888b5b11a3d08498d7bc858c564b5be423
+LaLiga Smartbank 8
+233ba21691ea262caae00b0af171347c54c315f6
+LaLiga Smartbank 9
+ee56fcf30ad84f9135633bbaaa1f8e1f2b1229ab
+LaLiga Smartbank 10
+ef7f710a5133477237b06ea023a4f20017ea0262
 La1
 b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
 La1 UHD
@@ -204,8 +210,6 @@ Euro9 1080
 dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
 M. LaLiga UHD
 dce1579e3a2e5bd29071fca8eae364f1eb3205cf
-LaLiga Smartbank 8
-11c89343be863cf2a69b3973747c629d9e79d7b8
 Copa 1080 plus
 d6cdd724a97fcf851e7ef641c28d6beb8663496e
 Copa 1080 MultiAudio

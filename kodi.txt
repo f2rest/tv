@@ -156,8 +156,12 @@ plugin://script.module.horus?action=play&id=84b8fd1ceddf7976464208e1d15fe776f9ab
 plugin://script.module.horus?action=play&id=0c847d3acd9c4a31a815330ad7f546c30851aa88
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 7" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png", LaLiga Hypermotion 7  a4ea
 plugin://script.module.horus?action=play&id=a4ea8b888b5b11a3d08498d7bc858c564b5be423
-#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 8" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png", LaLiga Hypermotion 8  11c8
-plugin://script.module.horus?action=play&id=11c89343be863cf2a69b3973747c629d9e79d7b8
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 8" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png", LaLiga Hypermotion 8  233b
+plugin://script.module.horus?action=play&id=233ba21691ea262caae00b0af171347c54c315f6
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 9" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png", LaLiga Hypermotion 9  ee56
+plugin://script.module.horus?action=play&id=ee56fcf30ad84f9135633bbaaa1f8e1f2b1229ab
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 10" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png", LaLiga Hypermotion 10  ef7f
+plugin://script.module.horus?action=play&id=ef7f710a5133477237b06ea023a4f20017ea0262
 #EXTINF:-1 group-title="British" tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.ibb.co/8r7M1Fy/mainevent.png", Sky Sports Main Event UK  eab7
 plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 group-title="British" tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.ibb.co/w4sF0dt/premier.png", Sky Sports Premier League UK  ec5e
