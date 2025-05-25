@@ -148,14 +148,14 @@ http://192.168.1.90:8008/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a8745648
 http://192.168.1.90:8008/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png", LaLiga Hypermotion 3  fefd
 http://192.168.1.90:8008/ace/getstream?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea
-#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%204.png", LaLiga Hypermotion 4  ef3a
-http://192.168.1.90:8008/ace/getstream?id=ef3a9359800bba51018fe00ac84afb8e79a7bbf2
-#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png", LaLiga Hypermotion 5  7a6f
-http://192.168.1.90:8008/ace/getstream?id=7a6f7c3acc3689c40f2300432723c55d41222af0
-#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png", LaLiga Hypermotion 6  5bd7
-http://192.168.1.90:8008/ace/getstream?id=5bd78125bd1e98c3f49e98910ed15e39d0b9f631
-#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 7" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png", LaLiga Hypermotion 7  b7e4
-http://192.168.1.90:8008/ace/getstream?id=b7e43c2c3887864193578eb57079955c50070f69
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%204.png", LaLiga Hypermotion 4  1c25
+http://192.168.1.90:8008/ace/getstream?id=1c25bdd6be50b69d4da12cbbc25a50be169414e4
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png", LaLiga Hypermotion 5  84b8
+http://192.168.1.90:8008/ace/getstream?id=84b8fd1ceddf7976464208e1d15fe776f9ab35e3
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png", LaLiga Hypermotion 6  0c84
+http://192.168.1.90:8008/ace/getstream?id=0c847d3acd9c4a31a815330ad7f546c30851aa88
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 7" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png", LaLiga Hypermotion 7  a4ea
+http://192.168.1.90:8008/ace/getstream?id=a4ea8b888b5b11a3d08498d7bc858c564b5be423
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 8" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png", LaLiga Hypermotion 8  11c8
 http://192.168.1.90:8008/ace/getstream?id=11c89343be863cf2a69b3973747c629d9e79d7b8
 #EXTINF:-1 group-title="British" tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.ibb.co/8r7M1Fy/mainevent.png", Sky Sports Main Event UK  eab7

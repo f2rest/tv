@@ -60,6 +60,14 @@ LaLiga Smartbank 2 720
 0a335406bad0b658aeddb2d38f8c0614b2e5623a
 LaLiga Smartbank 3
 fefd45ed6ff415e05f1341b7d9da2988eacd13ea
+LaLiga Smartbank 4
+1c25bdd6be50b69d4da12cbbc25a50be169414e4
+LaLiga Smartbank 5
+84b8fd1ceddf7976464208e1d15fe776f9ab35e3
+LaLiga Smartbank 6
+0c847d3acd9c4a31a815330ad7f546c30851aa88
+LaLiga Smartbank 7
+a4ea8b888b5b11a3d08498d7bc858c564b5be423
 La1
 b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
 La1 UHD
@@ -196,14 +204,6 @@ Euro9 1080
 dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
 M. LaLiga UHD
 dce1579e3a2e5bd29071fca8eae364f1eb3205cf
-LaLiga Smartbank 4
-ef3a9359800bba51018fe00ac84afb8e79a7bbf2
-LaLiga Smartbank 5
-7a6f7c3acc3689c40f2300432723c55d41222af0
-LaLiga Smartbank 6
-5bd78125bd1e98c3f49e98910ed15e39d0b9f631
-LaLiga Smartbank 7
-b7e43c2c3887864193578eb57079955c50070f69
 LaLiga Smartbank 8
 11c89343be863cf2a69b3973747c629d9e79d7b8
 Copa 1080 plus
