@@ -1,29 +1,37 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
 
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 1080  d628
-http://192.168.1.90:8008/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 1080  2c6e
-http://192.168.1.90:8008/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 1080  71ee
-http://192.168.1.90:8008/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 720  2682
-http://192.168.1.90:8008/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 1080  b08e
+http://192.168.1.90:8008/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 1080  bcf9
+http://192.168.1.90:8008/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 1080  fd53
+http://192.168.1.90:8008/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 720  ed61
+http://192.168.1.90:8008/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 Multicámara  9686
 http://192.168.1.90:8008/ace/getstream?id=968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 1080P  94d3
-http://192.168.1.90:8008/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 1080 MultiAudio  d3de
-http://192.168.1.90:8008/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 1080 MultiAudio  6d05
-http://192.168.1.90:8008/ace/getstream?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 720  1bc4
-http://192.168.1.90:8008/ace/getstream?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1", M+ LaLiga 2 1080  83c6
-http://192.168.1.90:8008/ace/getstream?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1", M+ LaLiga 2 720  f31a
-http://192.168.1.90:8008/ace/getstream?id=f31a586422c9244196c810c84b6c85da350318a5
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG2", M+ LaLiga 3 1080  ebe1
-http://192.168.1.90:8008/ace/getstream?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 1080P  00c9
+http://192.168.1.90:8008/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 1080 MultiAudio  c932
+http://192.168.1.90:8008/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 1080 MultiAudio  4b52
+http://192.168.1.90:8008/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 720  14b6
+http://192.168.1.90:8008/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1", M+ LaLiga 2 1080  51b3
+http://192.168.1.90:8008/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1", M+ LaLiga 2 720  ad42
+http://192.168.1.90:8008/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG2", M+ LaLiga 3 1080  7ad1
+http://192.168.1.90:8008/ace/getstream?id=7ad14386deef2f45ffe17d30a631dbf79b6a1a87
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI", DAZN LaLiga 1080 MultiAudio  e2b8
+http://192.168.1.90:8008/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI", DAZN LaLiga 720  4e6d
+http://192.168.1.90:8008/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2", DAZN LaLiga 2 1080 MultiAudio  a231
+http://192.168.1.90:8008/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2", DAZN LaLiga 2 720 MultiAudio  c976
+http://192.168.1.90:8008/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG3", M+ LaLiga 4 1080  6869
 http://192.168.1.90:8008/ace/getstream?id=68697ea4f261289d97bbc3418ad3cbc4180aa32f
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG4", M+ LaLiga 5 1080  c4bb
@@ -34,18 +42,6 @@ http://192.168.1.90:8008/ace/getstream?id=a0c7f911f35d72c1abc86c89604e1d4171bf66
 http://192.168.1.90:8008/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR" tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png", La Liga BAR 1080  94d3
 http://192.168.1.90:8008/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI", DAZN LaLiga 1080 MultiAudio  110d
-http://192.168.1.90:8008/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
-#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI", DAZN LaLiga 1080 MultiAudio  ec29
-http://192.168.1.90:8008/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c
-#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI", DAZN LaLiga 1080 MultiAudio  6de4
-http://192.168.1.90:8008/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f
-#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI", DAZN LaLiga 720  8c8c
-http://192.168.1.90:8008/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
-#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2", DAZN LaLiga 2 1080 MultiAudio  51db
-http://192.168.1.90:8008/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
-#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2", DAZN LaLiga 2 720 MultiAudio  97ba
-http://192.168.1.90:8008/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 3 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL3", DAZN LaLiga 3 1080 MultiAudio  3c72
 http://192.168.1.90:8008/ace/getstream?id=3c72639799f5471b213a073f4c1c6bf28bd08035
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 4 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL4", DAZN LaLiga 4 1080 MultiAudio  3fc9
@@ -138,16 +134,16 @@ http://192.168.1.90:8008/ace/getstream?id=e258e75e0e802afa5fcc53d46b47d8801a254a
 http://192.168.1.90:8008/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG2", Copa 1080 MultiAudio  3a4c
 http://192.168.1.90:8008/ace/getstream?id=3a4c8ac955d451bf3c29b45256e74aa0ea82d281
-#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png", LaLiga Hypermotion 1080  b270
-http://192.168.1.90:8008/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png", LaLiga Hypermotion 720  121f
-http://192.168.1.90:8008/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png", LaLiga Hypermotion 2 1080  0cfd
-http://192.168.1.90:8008/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png", LaLiga Hypermotion 1080  87bb
+http://192.168.1.90:8008/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png", LaLiga Hypermotion 720  a4f0
+http://192.168.1.90:8008/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png", LaLiga Hypermotion 2 1080  7090
+http://192.168.1.90:8008/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png", LaLiga Hypermotion 3  778d
+http://192.168.1.90:8008/ace/getstream?id=778d2f60bb7207addedcca0b9aed98f41529724e
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png", LaLiga Hypermotion 2 720  0a33
 http://192.168.1.90:8008/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
-#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png", LaLiga Hypermotion 3  fefd
-http://192.168.1.90:8008/ace/getstream?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%204.png", LaLiga Hypermotion 4  1c25
 http://192.168.1.90:8008/ace/getstream?id=1c25bdd6be50b69d4da12cbbc25a50be169414e4
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png", LaLiga Hypermotion 5  84b8
@@ -194,8 +190,54 @@ http://192.168.1.90:8008/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03
 http://192.168.1.90:8008/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91
 #EXTINF:-1 group-title="Otros deportes" tvg-id="ZiggoSportRacing.nl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2EoR81fJFuLzF0QGi1WAw9t8otRPfwyHdV9UBKcLrQltS7eUUh3yKrZ2U_ICEmjo4PIA&usqp=CAU", Ziggo Sport Racing NL  7780
 http://192.168.1.90:8008/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", M+ LaLiga 3 720  8356
-http://192.168.1.90:8008/ace/getstream?id=835639b89db00cc0d94660da3c10b6e38bfbcdc1
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", M+ LaLiga 3 720  382b
+http://192.168.1.90:8008/ace/getstream?id=382b14499e3d76e557d449d2e5bbc4e4bd63bd39
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 1080  c3da
+http://192.168.1.90:8008/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 720  d830
+http://192.168.1.90:8008/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg", Eurosport 2 1080  0585
+http://192.168.1.90:8008/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 2 720  5c91
+http://192.168.1.90:8008/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", MovistarPlus 1080  1ab4
+http://192.168.1.90:8008/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Vamos 1080  c7c8
+http://192.168.1.90:8008/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Vamos 720  0e5d
+http://192.168.1.90:8008/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Dazn 1  eb6f
+http://192.168.1.90:8008/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Dazn 2  ae68
+http://192.168.1.90:8008/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Deporte 1080  ebca
+http://192.168.1.90:8008/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Deporte 720  2f3c
+http://192.168.1.90:8008/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Dedporte 2 1080  f0ee
+http://192.168.1.90:8008/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Deporte 2 720  bfa0
+http://192.168.1.90:8008/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Deporte 3 1080  799c
+http://192.168.1.90:8008/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Deporte 3 720  2fd4
+http://192.168.1.90:8008/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Campeones 1080  97df
+http://192.168.1.90:8008/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Campeones 1080 2  2b51
+http://192.168.1.90:8008/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Campeones 1080 2  9db0
+http://192.168.1.90:8008/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Campeones 720  b028
+http://192.168.1.90:8008/ace/getstream?id=b028202ff335911db3118bceac027df3e8ef6c32
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Campeones 2 1080  74ab
+http://192.168.1.90:8008/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Campeones 2 720  38f7
+http://192.168.1.90:8008/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Campeones 3 1080  4416
+http://192.168.1.90:8008/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Campeones 3 720  cfc3
+http://192.168.1.90:8008/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Teledeporte" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TDEP", tdp 1080  61b9
 http://192.168.1.90:8008/ace/getstream?id=61b9b271c16f970aab43cb753c5f8be181dceece
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg", Eurosport 1 1080  16ff
