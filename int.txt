@@ -222,6 +222,10 @@ http://192.168.1.90:8008/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b
 http://192.168.1.90:8008/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Deporte 3 720  2fd4
 http://192.168.1.90:8008/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Deporte 4 1080  b40e
+http://192.168.1.90:8008/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Deporte 5 1080  7b36
+http://192.168.1.90:8008/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Campeones 1080  97df
 http://192.168.1.90:8008/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Campeones 1080 2  2b51
