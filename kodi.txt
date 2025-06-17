@@ -242,6 +242,8 @@ plugin://script.module.horus?action=play&id=38f7b2044e549df2039ff26cefa6f9a60c85
 plugin://script.module.horus?action=play&id=4416843c96b7f7a1bc55c476091a60fff0922bc7
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Campeones 3 720  cfc3
 plugin://script.module.horus?action=play&id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Cuatro 1080  8670
+plugin://script.module.horus?action=play&id=8670df538a11c6ec97b3f634981ddc4409ca0333
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Teledeporte" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TDEP", tdp 1080  61b9
 plugin://script.module.horus?action=play&id=61b9b271c16f970aab43cb753c5f8be181dceece
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg", Eurosport 1 1080  16ff
